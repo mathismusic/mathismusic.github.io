@@ -1,0 +1,94 @@
+/* =============== Header and Title =================== */
+
+.header {
+    background-image: url('images/steinway_piano.jpeg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 50%;
+    top: 0;
+    /* transform: scale(0.7); */
+    background-image: url('images/me_green.jpg');
+    opacity: 0.75;
+}
+
+.description {
+	left: 35%;
+	position: absolute;
+	top: 35%;
+	transform: translate(-40%, -55%);
+	text-align: center;
+}
+.description h1 {
+	color: gold;
+    font-family: "Papyrus", fantasy;
+    font-size: 3rem;
+}
+.description p {
+	color: #fff;
+	font-family: cursive;
+    font-size: 1.6rem;
+	line-height: 1.5;
+}
+
+.page-footer {
+    position: relative;
+    top: 660px;
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+}
+
+/* =============== Info about the Hobbies =================== */
+
+.hobby-grid {
+	/* margin: 4em auto;
+	padding: 1em; */
+	position: relative;
+    top: 1200px;
+    font-size: 1.5em;
+}
+
+.hobby-grid a {
+    color: black;
+}
+.feature-title {
+	color: magenta;
+    font-family: Papyrus, fantasy;
+	font-size: 2em !important;
+    margin-top: 0.3em !important;
+    padding-top: 0.3em !important;
+	margin-bottom: 20px;
+    text-align: center;
+    background-color: inherit;
+    border: 2px solid magenta;
+}
+.features img {
+	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	margin-bottom: 16px;
+}
+
+.hobby-grid span.tickmark {
+    color: green;
+    visibility: hidden;
+}
+
+.hobby-grid p.hobby-desc {
+    visibility: hidden;
+    max-height: 400px;
+    overflow: auto;
+}
+
+#submit {
+    position: relative;
+    top: 1200px;
+    transform: scale(1.3);
+}
