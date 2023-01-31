@@ -1,0 +1,70 @@
+/* =============== Header and Title =================== */
+
+.header {
+    background-image: url('images/me_piano2.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 50%;
+    top: 0;
+    /* transform: scale(0.7); */
+    background-image: url('images/me_green.jpg');
+    opacity: 0.75;
+}
+
+.description {
+	left: 65%;
+	position: absolute;
+	top: 35%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description h1 {
+	color: gold;
+    font-family: "Papyrus", fantasy;
+    font-size: 3rem;
+}
+.description p {
+	color: #fff;
+	font-family: cursive;
+    font-size: 1.6rem;
+	line-height: 1.5;
+}
+
+/* =============== Info about the other pages =================== */
+
+.other-pages-info {
+	/* margin: 4em auto;
+	padding: 1em; */
+	position: relative;
+    top: 1200px;
+    font-size: 1.5em;
+}
+
+.other-pages-info a {
+    color: black;
+}
+.feature-title {
+	color: blue;
+    font-family: Papyrus, fantasy;
+	font-size: 2em !important;
+    margin-top: 0.3em !important;
+	margin-bottom: 20px;
+    text-align: center;
+}
+.features img {
+	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	margin-bottom: 16px;
+}
+
+.other-pages-info span.strikethrough {
+    text-decoration: line-through;
+}

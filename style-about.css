@@ -1,0 +1,34 @@
+.header {
+    background-image: url('images/Aspark-Owl.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.description {
+	left: 65%;
+	position: absolute;
+	top: 35%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description h1 {
+	color: gold;
+    font-family: "Papyrus", fantasy;
+    font-size: 3rem;
+}
+.description p {
+	color: #fff;
+	font-family: cursive;
+    font-size: 1.6rem;
+	line-height: 1.5;
+}
+
+.page-footer {
+    position: relative;
+    top: 0px;
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+}
+
