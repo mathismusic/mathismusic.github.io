@@ -1,0 +1,87 @@
+/* Global settings for the webpage */
+body {
+    padding: 0;
+    margin: 0;
+    background-color: lightgreen;
+    font-family: "Fira Sans", "Gill Sans", "Lucida Grande", sans-serif;
+}
+
+/* =============== Nav Bar settings =================== */
+
+/* navbar color */
+.navbar { background-color: #212529; }
+
+.navbar-nav {
+    font-family: "Papyrus", fantasy;
+    font-size: 2em;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+    margin-top: 0.3em !important;
+}
+
+.nav-link:hover {
+    text-decoration: overline;
+    transform: scale(1.3);
+}
+
+.nav-link#home {
+    color: rgb(144, 184, 220);
+}
+.nav-link#about {
+    color: orangered;
+}
+.nav-link#timetable {
+    color: seagreen;
+}
+.nav-link#hobbies {
+    color: gold;
+}
+.nav-link#education {
+    color: violet;
+}
+
+
+
+/* =============== Footer =================== */
+
+.page-footer {
+    position: relative;
+    top: 930px;
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+}
+
+.fa {
+    transform: scale(2.5);
+    padding-left: 0.4em;
+}
+.fa:hover {
+    text-decoration: overline;
+}
+
+.footer-copyright {
+    color: #666;
+    padding: 40px 0;
+}
+
+.page-footer .form-control,
+.page-footer input {
+	border-radius: 0;
+}
+.page-footer .btn {
+    background-color: #589b37;
+    border: 1px solid #589b37;
+    color: #fff;
+    margin-top: 20px;
+}
+.page-footer .btn:hover {
+    /* background-color: #333; */
+    border: 1px solid white;
+}

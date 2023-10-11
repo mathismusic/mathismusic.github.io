@@ -1,0 +1,11 @@
+Extremely useful stuff. Very grateful for these.
+https://websitesetup.org/bootstrap-tutorial-for-beginners/#setup-and-overview
+https://www.techiedelight.com/detect-elements-click-event-javascript/
+https://getbootstrap.com/docs/4.1/content/tables/
+https://www.w3schools.com
+https://stackoverflow.com
+
+Images:
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1Hqm0dYKUx4%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1Hqm0dYKUx4&tbnid=fwg0b1pAMeMhxM&vet=12ahUKEwi246Xa2Mv5AhUmjtgFHYheAhwQMygAegQIARBC..i&docid=AAzZ2jhOaBOIiM&w=1280&h=720&q=math%20piano%20minutephysics&client=safari&ved=2ahUKEwi246Xa2Mv5AhUmjtgFHYheAhwQMygAegQIARBC
+https://www.istockphoto.com/photos/graduation-cap
+https://www.carscoops.com/tag/aspark-owl/

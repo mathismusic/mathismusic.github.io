@@ -1,0 +1,53 @@
+/* =============== Header and Title =================== */
+
+.header {
+    background-image: url('images/math_clock.png');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 500px;
+}
+
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    top: 0;
+    /* transform: scale(0.7); */
+    background: rgba(0, 0, 0, 0.6);
+    opacity: 0.75;
+}
+
+.description {
+	left: 35%;
+	position: absolute;
+	top: 35%;
+	transform: translate(-40%, -55%);
+	text-align: center;
+}
+.description h1 {
+	color: orangered;
+    font-family: "Papyrus", fantasy;
+    font-size: 4rem;
+}
+.description p {
+	color: gold;
+	font-family: cursive;
+    font-size: 2rem;
+	line-height: 1.5;
+}
+
+.page-footer {
+    position: relative;
+    top: 500px;
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+}
+
+/* =============== Table related =================== */
+
+.the-table {
+    position: relative;
+    top: 1210px;
+}
