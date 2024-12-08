@@ -1,3 +1,3 @@
 # mathismusic.github.io
 
-Website under development :)
+My website. Built with Jekyll and hosted on GitHub Pages.
